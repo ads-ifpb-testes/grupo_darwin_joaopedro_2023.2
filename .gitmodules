@@ -1,0 +1,3 @@
+[submodule "src/__tests__/system"]
+	path = src/__tests__/system
+	url = git@github.com:Joao-Darwin/testes-cypress.git
